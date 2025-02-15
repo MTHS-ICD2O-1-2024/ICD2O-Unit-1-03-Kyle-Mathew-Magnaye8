@@ -3,7 +3,7 @@
 [![Mr Coxall's Super Linter](https://github.com/ICD2O-Unit-1-03-Kyle-Mathew-Magnaye8/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICD2O-Unit-1-03-Kyle-Mathew-Magnaye8/actions)
 
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://ICD2O-Unit-1-03-Kyle-Mathew-Magnaye8)
+This site can be found at: [https://ICD2O-Unit-1-03-Kyle-Mathew-Magnaye8](https://ICD2O-Unit-1-03-Kyle-Mathew-Magnaye8)
 
 ---
 
